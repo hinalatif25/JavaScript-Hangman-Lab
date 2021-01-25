@@ -1,6 +1,7 @@
 
 const Hangman = require('./Hangman');
 
+
 test("Test guess of letter", () => {
 
         // Given
